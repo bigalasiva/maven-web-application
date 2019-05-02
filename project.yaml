@@ -5,3 +5,4 @@ maven: apache-maven-3.3.9
 appVersion: 0.1
 pomFileLocation: 'pom.xml'
 mavenGoals: clean install -Dbranch=master
+maven enterprise
